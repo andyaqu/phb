@@ -1,0 +1,193 @@
+body,div,form,input {
+	font-size: 14px;
+	margin: 0;
+	padding: 0
+}
+
+a {
+	color: #0000cc
+}
+
+a:active {
+	color: #f90
+} 
+#top_right {
+	color: #999;
+	font-size: 12px;
+	padding: 6px 10px;
+	position: absolute;
+	right: 0;
+	top: 0
+} 
+#top_right a {
+	font-size: 12px
+}
+
+/*头部结束*/
+#main {
+	margin: 25px auto 50px auto;
+	padding: 0 35px;
+	width: 800px
+}
+
+#main h1 {
+	margin-bottom: 4px;
+	text-align: center
+}
+
+#main h1 a img {
+	border: none
+}
+
+#main ul {
+	list-style-type: none;
+	padding: 0 0 0 45px;
+	width: 800px
+}
+
+#main ul li {
+	float: left;
+	margin-right: 18px
+}
+
+#main ul li a.mr {
+	color: #000;
+	font-weight: bold
+}
+
+#search_form {
+	clear: both;
+	margin-left: 15px;
+	padding-top: 4px
+}
+
+#from-keyword { /* border:1px solid #ccc; 第二个border  */
+	/* border:none; 第一个border  */
+	/* border-left:1px solid #999; 第四个border  */
+	/* border-top:1px solid #999; 第三个border  */
+	background: url(../images/i-1.0.0.png) no-repeat
+		-304px 0px;
+	border-color: #999 #ccc #ccc #999;
+	border-style: solid;
+	border-width: 1px; 
+	font-size: 18px;
+	height: 30px;
+	line-height: 30px;
+	text-indent: 10px;
+	width: 100px;
+}
+#to-keyword { /* border:1px solid #ccc; 第二个border  */
+	/* border:none; 第一个border  */
+	/* border-left:1px solid #999; 第四个border  */
+	/* border-top:1px solid #999; 第三个border  */
+	background: url(../images/i-1.0.0.png) no-repeat
+		-304px 0px;
+	border-color: #999 #ccc #ccc #999;
+	border-style: solid;
+	border-width: 1px; 
+	font-size: 18px;
+	height: 30px;
+	line-height: 30px;
+	text-indent: 10px;
+	width: 100px;
+}
+
+/* 上面这四个border属性，这样写感觉不是很好，不易阅读 */
+#main .search_btn {
+	background: url(../images/i-1.0.0.png) no-repeat
+		0 0;
+	border: none;
+	cursor: pointer;
+	float: right;
+	font-size: 12px;
+	height: 32px;
+	line-height: 32px;
+	margin-left: 6px;
+	width: 95px;
+}
+
+#main .down_btn {
+	
+}
+
+#main p {
+	float: left;
+	margin-top: 35px;
+	text-align: center;
+	width: 800px;
+}
+
+#cl {
+	clear: both
+}
+
+/*内容结束*/
+#footer {
+	margin: 0px auto;
+	width: 800px
+}
+
+#footer p {
+	font-size: 12px;
+	margin-bottom: 15px;
+	text-align: center
+}
+
+#footer p.jr {
+	margin-bottom: 5px
+}
+
+#footer p a {
+	font-size: 12px
+}
+
+#footer p.bq {
+	color: #77c
+}
+
+#footer p.bq a {
+	color: #77c
+}
+
+p {
+	margin: 0px;
+	font-family: Arial;
+}
+
+p.title {
+	padding-bottom: 0px;
+	font-size: 16px;
+}
+
+p.content {
+	padding-top: 20px;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+p.link {
+	font-size: 13px;
+	padding-bottom: 25px;
+	color: #008000;
+}
+
+span.search {
+	color: #c60a00;
+}
+
+span.quick {
+	color: #666666;
+	text-decoration: underline;
+}
+
+p.title span.search {
+	text-decoration: : underline;
+}
+
+#datagrid {
+   height:auto!important;  
+   height:400px;  
+   min-height:400px; 
+   width: 800px;
+   margin: 0px auto;
+}  

@@ -1,0 +1,84 @@
+
+body,td{
+	margin:0;
+	padding:0;
+	font-size:12px;
+	font-family: "Tahoma", "宋体";
+}
+
+a{
+	color:#1438CE
+}
+a img{
+	border:none;
+}
+
+/*hr 
+{
+	height:0.5px;
+	width:98%;
+	background-color:#999999;
+}*/
+
+
+h1{
+	font-size:25px;
+	margin-top:0.7em;
+	margin-bottom:0.7em;
+}
+h2{
+	font-size:16px;
+	font-weight:normal;
+	margin-top:0.5em;
+	margin-bottom:0.5em;
+	padding:0.3em;
+	background:#E7F1FF;
+}
+h3{
+	font-size:14px;
+}
+table{ border:1px solid #fff;}
+form{
+	margin:0;
+	padding:0;
+}
+textarea{
+	font-size:14px;
+	padding:3px;
+}
+.f14{
+	font-size:14px;
+	padding-left:15px;
+}
+.top
+{
+	
+	padding-left:26px;
+	font-size:14px;
+	height:30px;
+	line-height:30px;
+	border-top:1px #7CA7E1 solid;
+	background-color: #D9E8F7; 
+	}
+.left
+{
+	padding:15px;
+	font-size:14px;
+	line-height:24px;
+	
+	}
+.subject
+{
+	font-size:14px;
+	font-family: "Tahoma", "宋体";
+	}
+
+
+/*搜索效果*/
+.fisame{height: 25px;border-right:1px dotted #999999;}
+.say{color:#0066CC;}
+.say1{color:#ffffff;background-image:url(../Images/tbg.gif);height:25px;width: 53px;padding-top:3px;font-size:14px;}
+.say2{color:#0044DD;background-image:url(../Images/say2.gif);height:25px;width: 64px;padding-top:3px;font-size:14px;}
+.fiSp2 {font-size:0px;border-bottom: 1px solid #a2bbdd;width:5px;}
+.fisp div{padding-left: 10px;}
+.int{padding-top:2px;height: 28px;font-size:16px;width: 370px;background-color: ffffff;}

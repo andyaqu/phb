@@ -1,0 +1,244 @@
+.main{
+	width: 960px;
+	margin: 0 auto;
+}
+.main .left{
+	float: left; width:760px;clear:both;}
+.c{
+		clear:both;
+	}
+.news_box {
+	MARGIN-TOP: 7px
+}
+.newsbox_h3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FLOAT: left; OVERFLOW: hidden; LINE-HEIGHT: 28px; HEIGHT: 25px;
+}
+.newsbox_more { PADDING-RIGHT: 12px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 6px ;}
+.news_box1top {
+	WIDTH: 760px;
+	HEIGHT: 25px;
+	background-image:url(../Images/car_tit.gif);
+	background-repeat: repeat-x;
+}
+.news_box1top P {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: url(../images/news_icon_2.gif) no-repeat center 50%; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 13px; PADDING-TOP: 0px; HEIGHT: 25px
+}
+.news_box1bottom {BORDER: #a9c3e4 1px solid;  WIDTH: 758px; height:auto;}
+.news_box1bottom UL { WIDTH: 758px; height:auto; overflow:hidden; padding:5px 0px;}
+.news_box1bottom LI { float:left;WIDTH: auto;LINE-HEIGHT: 26px;list-style-type:none;text-align: left;}
+.lix li{
+	text-align: center; padding-left:5px;padding-right:2px;
+	display: inline;
+}
+
+.car_info {
+	WIDTH: 760px;
+	HEIGHT: 25px;
+	background-image:  url(../Images/news_box1top.gif);
+	background-repeat: repeat-x;
+}
+.car_info_tit{
+	padding-left:20px; line-height: 28px; float:left;
+}
+.car_info_more{
+	PADDING-RIGHT: 12px; PADDING-LEFT: 0px; COLOR:red; FLOAT: right; PADDING-BOTTOM: 0px; PADDING-TOP: 8px ;
+}
+.car_bottom {BORDER: #a9c3e4 1px solid;WIDTH: 758px; height:auto; overflow:hidden; padding-bottom:5px; margin-bottom:7px;}
+.car_bottom p {
+	
+}
+.car_bottom UL {width:98%; height:auto; overflow:hidden; margin:0 auto; margin-top:3px;}
+.List_ItemList {
+	MARGIN: 3px 0px; BORDER-BOTTOM: #ccc 1px dashed; HEIGHT: 80px; width:755px;
+}
+.List_ItemList LI {
+	MARGIN-TOP: 15px; FLOAT: left; COLOR: #302f2e; TEXT-ALIGN: center
+}
+.List_ItemList .Compare {
+	WIDTH: 50px
+}
+.List_ItemList .Prestige {
+	WIDTH: 20px
+}
+.List_ItemList .img {
+	WIDTH: 20px;margin:0 10px 0 10px; float:left
+}
+.List_ItemList .Title {
+	MARGIN-TOP: 10px; WIDTH: 450px; LINE-HEIGHT: 16px
+}
+.List_ItemList .Title P {
+	MARGIN-TOP: 5px; TEXT-ALIGN: left
+}
+.List_ItemList .Title .T {
+	font-size:16px;
+}
+
+.List_ItemList .Title .M {
+	MARGIN-LEFT: 5px
+}
+
+.List_ItemList .Initial {
+	MARGIN-LEFT: 10px; WIDTH: 84px; TEXT-ALIGN: center
+}
+.List_ItemList .Destination {
+	WIDTH: 84px; TEXT-ALIGN: center
+}
+.List_ItemList .Price {
+	WIDTH: 104px; TEXT-ALIGN: center
+}
+
+
+.SearchList_ItemList {
+	MARGIN: 3px 0px; BORDER-BOTTOM: #ccc 1px dashed; HEIGHT: 80px;BACKGROUND: #fff;width:755px;
+}
+.SearchList_ItemList LI {
+	MARGIN-TOP: 15px; FLOAT: left; COLOR: #302f2e; TEXT-ALIGN: center
+}
+.SearchList_ItemList .Compare {
+	WIDTH: 50px
+}
+.SearchList_ItemList .Prestige {
+	WIDTH: 20px
+}
+.SearchList_ItemList .Title {
+	MARGIN-TOP: 10px; WIDTH: 450px; LINE-HEIGHT: 16px
+}
+.SearchList_ItemList .Title P {
+	MARGIN-TOP: 2px; TEXT-ALIGN: left
+}
+.SearchList_ItemList .Title .T {
+	font-size:16px;
+}
+
+.SearchList_ItemList_car .Title .T .c_hui
+{
+	font-size:12px;
+	color:Gray;
+}
+
+.SearchList_ItemList .Title .M {
+	MARGIN-LEFT: 5px
+}
+
+.SearchList_ItemList .Initial {
+	MARGIN-LEFT: 10px; WIDTH: 84px; TEXT-ALIGN: center
+}
+.SearchList_ItemList .Destination {
+	WIDTH: 84px; TEXT-ALIGN: center
+}
+.SearchList_ItemList .Price {
+	WIDTH: 104px; TEXT-ALIGN: center
+}
+ 
+.List_ItemList_car {
+	MARGIN: 3px 0px; BORDER-BOTTOM: #ccc 1px dashed; HEIGHT: 80px
+}
+.List_ItemList_car LI {
+	MARGIN-TOP: 15px; FLOAT: left; COLOR: #302f2e; TEXT-ALIGN: center
+}
+.List_ItemList_car .Compare {
+	WIDTH: 50px
+}
+.List_ItemList_car .Prestige {
+	WIDTH: 20px
+}
+.List_ItemList_car .img {
+	WIDTH: 20px; margin:0 6px 0 6px; float:left
+}
+.List_ItemList_car .Title {
+	MARGIN-TOP: 3px; WIDTH: 400px; LINE-HEIGHT: 16px; float:left; padding-left:50px;
+}
+.List_ItemList_car .Title P {
+	MARGIN-TOP: 3px; TEXT-ALIGN: left
+}
+.List_ItemList_car .Title .T {
+	font-size:16px;
+}
+
+.List_ItemList_car .Title .T .c_hui
+{
+	font-size:12px;
+	color:Gray;
+}
+
+.List_ItemList_car .Title .M {
+	MARGIN-LEFT: 10px
+}
+
+.List_ItemList_car .Initial {
+	MARGIN-LEFT:10px; WIDTH: 84px; TEXT-ALIGN: center
+}
+.List_ItemList_car .Destination {
+	WIDTH: 84px; TEXT-ALIGN: center
+}
+.List_ItemList_car .Price {
+	WIDTH: 104px; TEXT-ALIGN: center
+}
+
+
+
+.c_lan2 {
+	COLOR: #0044dd; font-size:12px;
+}
+.c_hui
+{
+	font-size:12px;
+	color:Gray;
+}
+.f12 {
+	font-size:12px;
+}
+.s_f16 
+{
+	font-size:16px;
+}
+.s_f18 
+{
+	font-size:14px;
+}
+.s_f17 {font-size:18px; font-weight:bold; color:#004499;}
+.s_f14
+{
+	font-size:14px;
+}
+.s_f15
+{
+	font-size:12px;
+	color:#333;
+}
+
+
+.s_f150{font-size:14px;color:#004499;}
+.middle{float:right; WIDTH: 195px;margin-top:7px; margin-left:5px;}
+.fb{ WIDTH: 193px; height:auto; border: #E5F1FF 1px solid; background-color:#FAFAFA; }
+
+.Memberjoin {
+	margin:10px;text-align: left;
+}
+.Memberjoin A {
+	DISPLAY: block; PADDING-LEFT: 50px; FONT-WEIGHT: bold; FONT-SIZE: 15px; BACKGROUND: url(../images/menu_bj_gx.gif); OVERFLOW: hidden; COLOR: #145482; LINE-HEIGHT: 37px; HEIGHT: 37px;background-repeat: no-repeat;}
+.Memberjoin_car {
+	margin:10px;text-align: left;
+}
+.Memberjoin_car A {
+	DISPLAY: block; PADDING-LEFT: 50px; FONT-WEIGHT: bold; FONT-SIZE: 15px; BACKGROUND: url(../images/menu_bj_che.gif); OVERFLOW: hidden; COLOR: #145482; LINE-HEIGHT: 37px; HEIGHT: 37px;
+	background-repeat: no-repeat;
+}
+.Memberjoin_huo {
+	margin:10px;text-align: left;
+}
+.Memberjoin_huo A {
+	DISPLAY: block; PADDING-LEFT: 50px; FONT-WEIGHT: bold; FONT-SIZE: 15px; BACKGROUND: url(../images/menu_bj_huo.gif); OVERFLOW: hidden; COLOR: #145482; LINE-HEIGHT: 37px; HEIGHT: 37px;
+	background-repeat: no-repeat;
+}
+.Memberjoin_xianlu {
+	margin:10px;text-align: left;
+}
+.Memberjoin_xianlu A {
+	DISPLAY: block; PADDING-LEFT: 50px; FONT-WEIGHT: bold; FONT-SIZE: 15px; BACKGROUND: url(../images/menu_bj_xianlu.gif); OVERFLOW: hidden; COLOR: #145482; LINE-HEIGHT: 37px; HEIGHT: 37px;
+	background-repeat: no-repeat;
+}
+.guanggao{BORDER: #a9c3e4 1px solid;WIDTH: 193px; height:auto;}
+.guanggao p{
+ text-align: center; height:60px
+}

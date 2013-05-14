@@ -1,0 +1,96 @@
+TD
+{
+	FONT-SIZE: 12px;
+	align:justify;
+	FONT-FAMILY:宋体;
+	LINE-HEIGHT: 180%;
+}
+
+
+P
+{
+	FONT-SIZE: 12px;
+	FONT-FAMILY:宋体;
+	LINE-HEIGHT: 180%;
+}
+
+
+A:link {
+	COLOR: #00548a; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #00548a; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #E65700; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #E65700; TEXT-DECORATION: none
+}
+
+
+.company A:link {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.company A:visited {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+.company A:hover {
+	COLOR: #FF6600; TEXT-DECORATION: underline
+}
+
+
+
+.Font_Red
+{
+	color:#E65700;
+	font-weight:bold;
+}
+
+.title
+{
+	color:#00548a;
+	font-weight:bold;
+	font-size:14px;
+	height:25px;	
+}
+
+.map{ padding:2px;border:1px solid #CACACA;}
+
+
+.company_table {
+	margin-top:15px;
+}
+table{ border:0px solid #fff;}
+.company_table td{
+	height:27px;
+	font-size:14px;
+	padding-left:10px;
+	text-align:center;
+	background:url(../images/menu_bg.gif) no-repeat center top;
+}	
+
+
+.bottom_line td{
+	border-bottom:1px #cccccc dashed;
+	padding-left:10px;
+	padding-top:3px;
+	height:25px;
+	
+}
+
+.size_14 td{font-size:14px;font-weight:bold}
+
+
+/*.tab_hy {
+	BORDER-RIGHT: #b5ddea 1px solid; BORDER-TOP: #b5ddea 1px solid; BORDER-LEFT: #b5ddea 1px solid; WIDTH: 100%; BORDER-BOTTOM: #b5ddea 1px solid; HEIGHT: 170px;
+}
+.tab_hy UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px;
+}
+
+.tab_hy UL LI {
+	FLOAT: left
+}
+
+*/
