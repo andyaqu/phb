@@ -1,9 +1,9 @@
-<%@ page language="java" pageEncoding="UTF-8" %>
+﻿<%@ page language="java" pageEncoding="UTF-8" %>
 <div id="footer">
 			<div id="link">
 				<h5>友情链接<span><a href="/About/friendlink.aspx">>>更多</a></span></h5>
 				<div class="friendlink">
-                   xxx 
+                   yyy
 				</div>
 			</div>
 			<div id="subnav">
