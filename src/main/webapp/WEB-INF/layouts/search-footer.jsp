@@ -3,7 +3,7 @@
 			<div id="link">
 				<h5>友情链接<span><a href="/About/friendlink.aspx">>>更多</a></span></h5>
 				<div class="friendlink">
-                  zzz
+                  zzz又
 				</div>
 			</div>
 			<div id="subnav">
